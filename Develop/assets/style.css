@@ -23,6 +23,7 @@ h1 {
   width: 100%;
   background-color: var(--header-background-color-blue);
   color: var(--heading-text-color);
+  font-size: 50px;
 }
 
 #bio h2, #portfolio h2 {
@@ -30,12 +31,17 @@ h1 {
   display: inline-block;
   text-align: center;
   width: 100%;
+  font-size: 32px;
+  background-color: var(--header-background-color-blue);
 }
 
 #portfolio-image img {
   height: auto;
-  width: 100%;
-}
+  width: 33.33%;
+  border-radius: 20px;
+  display: block;
+  margin: 0 auto;
+  }
 
 nav {
   display: flex;
@@ -43,6 +49,7 @@ nav {
   align-items: center;
   padding: 10px;
   width: auto;
+  font-size: 24px;
 }
 
 nav ul {
@@ -88,10 +95,12 @@ nav li {
   width: 100%;
   align-items: center;
   transition: all 0.2s ease-in-out;
+  border-radius: 20px;
+margin: 5px;
 }
 
 #portfolio img:hover {
-    transform: scale(1.1);
+    transform: scale(1.02);
 }
 
 @media screen and (max-width: 768px) {
