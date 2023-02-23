@@ -10,7 +10,7 @@ See below for HitHub pages link and URL of the webpage:
 - https://github.com/RyanGolder/rwg-portfolio 
 - https://ryangolder.github.io/rwg-portfolio/ 
 
-![RWG Portfolio Image](/02-Advanced-CSS/04-Challenge/Develop/assets/images/RWG%20Portfolio.png)
+![RWG Portfolio](https://user-images.githubusercontent.com/121011030/220862216-b3134d89-2d14-461b-9a93-a7952f2475be.png)
 
 ## Usage
 
