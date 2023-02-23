@@ -10,6 +10,10 @@ See below for HitHub pages link and URL of the webpage:
 - https://github.com/RyanGolder/rwg-portfolio 
 - https://ryangolder.github.io/rwg-portfolio/ 
 
+!RWG Portfolio image
+
+(./Develop/assets/images/RWG Portfolio.png)
+
 ## Usage
 
 This webpage is used to showcase Ryan's latest projects and to inform people about Ryan as well as how to contact him. 
